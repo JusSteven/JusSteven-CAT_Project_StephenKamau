@@ -1,0 +1,22 @@
+
+
+body {
+    color: #f9f9f9;
+    background-color: aqua;
+    text-align: justify;
+    background-image: url('portfolio background.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.first-header{
+    text-align: center;
+    font-family: Press Start 2p, Georgia, 'Times New Roman', Times, serif
+}
+.whole-body{
+    color: white;
+    background-color: aqua;
+}
+.projects{
+    border-image: fill;
+}
